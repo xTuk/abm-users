@@ -43,9 +43,13 @@ Primero hay que configurar el .env con el example que hay
 Ejemplo de .env 
 
 `PORT=3000`
+
 `DBPORT=3400`
+
 `DBNAME=test`
+
 `DBUSER=root`
+
 `DBPASS=1234`
 
 PORT es donde se van a escuchar las peticiones y el DBPORT es el puerto de la base de datos
