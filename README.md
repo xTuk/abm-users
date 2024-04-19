@@ -1,6 +1,6 @@
 # AbmUsers
 
-Este proyecto esta separado en front y back respectivamente por carpetas, cada una tiene su readme para poder levantar el proyecto
+Este proyecto es un repositorio de prueba donde se simula un abm de usuarios, esta separado en front y back respectivamente por carpetas, cada una tiene su readme para poder levantar el proyecto
 
 ## FRONT
 
